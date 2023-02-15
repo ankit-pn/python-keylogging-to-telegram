@@ -1,0 +1,5 @@
+{
+    "bot_token": "YOUR ACCESS ID",
+    "chat_id": "YOUR CHAT ID",
+    "timer": 30
+}
